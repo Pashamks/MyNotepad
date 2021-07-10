@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/new/imgs">
+        <file>cope.png</file>
+        <file>cross.png</file>
+        <file>else.png</file>
+        <file>few_folders.png</file>
+        <file>folder.png</file>
+        <file>../../icons/smth.png</file>
+        <file>104683.png</file>
+        <file>62124.png</file>
+        <file>Nulp_logo_ukr.jpg</file>
+    </qresource>
+</RCC>
